@@ -1,0 +1,117 @@
+/* CSS Document */
+h1{
+    text-align: center;
+    font-family: 'Trispace', sans-serif;
+    color: red;
+}
+a {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: gold;
+}
+      table, th, td {
+  border: 5px solid black;
+}
+              table {
+  width: 100%;
+  border-collapse: collapse;         height: 200px
+}
+      #a1 {
+  background-color: lightpink;
+}
+      #b1 {
+  background-color: lightcoral;
+}
+      #c1 {
+  background-color: indianred;
+}
+      #d1 {
+  background-color: brown;
+}
+      #e1 {
+  background-color: darkred;
+}
+      #f1 {
+  background-color: maroon;
+}
+      #g1 {
+  background-color: red;
+}
+      #h1 {
+  background-color: crimson;
+}
+      #a2 {
+  background-color: indigo;
+}
+      #b2 {
+  background-color: purple;
+}
+      #c2 {
+  background-color: darkviolet;
+}
+      #d2 {
+  background-color: blueviolet;
+}
+      #e2 {
+  background-color: darkorchid;
+}
+      #f2 {
+  background-color: mediumpurple;
+}
+      #g2 {
+  background-color: mediumorchid;
+}
+      #h2 {
+  background-color: magenta;
+}
+      #a3 {
+  background-color: midnightblue;
+}
+      #b3 {
+  background-color: navy;
+}
+      #c3 {
+  background-color: mediumblue;
+}
+      #d3 {
+  background-color: blue;
+}
+      #e3 {
+  background-color: royalblue;
+}
+      #f3 {
+  background-color: cornflowerblue;
+}
+      #g3 {
+  background-color: dodgerblue;
+}
+      #h3 {
+  background-color: deepskyblue;
+}
+      #a4 {
+  background-color: darkgreen;
+}
+      #b4 {
+  background-color: green;
+}
+      #c4 {
+  background-color: forestgreen;
+}
+      #d4 {
+  background-color: seagreen;
+}
+      #e4 {
+  background-color: mediumseagreen;
+}
+      #f4 {
+  background-color: springgreen;
+}
+      #g4 {
+  background-color: lightgreen;
+}
+      #h4 {
+  background-color: darkseagreen;
+}
